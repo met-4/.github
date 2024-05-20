@@ -28,7 +28,7 @@
 ### 구성원 및 발표순서
 |심국보|신수웅|박경민|김동원|
 |:---:|:---:|:---:|:---:|
-|<img alt="박경민" src="https://avatars.githubusercontent.com/u/58167436?v=4" height="100" width="100">|<img alt="박경민" src="https://avatars.githubusercontent.com/u/58167436?v=4" height="100" width="100">|<img alt="박경민" src="https://avatars.githubusercontent.com/u/58167436?v=4" height="100" width="100">|<img alt="김동원" src="https://avatars.githubusercontent.com/u/33149791?v=4" height="100" width="100">|
+|<img alt="심국보" src="https://avatars.githubusercontent.com/u/58167436?v=4" height="100" width="100">|<img alt="신수웅" src="https://avatars.githubusercontent.com/u/110591076?v=4" height="100" width="100">|<img alt="박경민" src="https://avatars.githubusercontent.com/u/58167436?v=4" height="100" width="100">|<img alt="김동원" src="https://avatars.githubusercontent.com/u/33149791?v=4" height="100" width="100">|
  
 ### 스터디진행 주기
 - 1주, but 상황에 따라 2주도 가능(1주 1주 휴일 등도가능)
